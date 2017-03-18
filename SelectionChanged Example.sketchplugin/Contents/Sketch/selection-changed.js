@@ -38,7 +38,7 @@
 //   "authorEmail" : "sam@bohemiancoding.com",
 //   "commands" : [
 //     {
-//       "script" : "script.js",
+//       "script" : "selection-changed.js",
 //       "handlers" : {
 //         "actions" : {
 //            "SelectionChanged.finish" : "onSelectionChanged",
